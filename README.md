@@ -1,21 +1,9 @@
-# mpvue-book
+#descption (mpvue-book)
 
-> A Mpvue project
+使用mpvue练习的小程序开发, 参考慕课网上的教程, server目录是该项目的服务端, 需要自己安装mysql;
 
-## Build Setup
+项目分为图书, 评论, 我 三个模块, 通过在我扫描图书二维码获取isbn, 去豆瓣得到图书信息存入mysql,在图书模块显示全部的图书列表, 点击可以进入详情, 在详情中可以评论该图书, 在评论模块展示自己的所有评论和添加的图书列表
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
