@@ -1,4 +1,4 @@
-#descption (mpvue-book)
+# Descption (mpvue-book)
 
 使用mpvue练习的小程序开发, 参考慕课网上的教程, server目录是该项目的服务端, 需要自己安装mysql;
 
