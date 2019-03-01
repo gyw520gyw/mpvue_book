@@ -6,4 +6,8 @@
 
 
 
+# Demo
+ ![动态演示](./screenshot/mpvue-book.gif)
+
+
 
